@@ -1,0 +1,9 @@
+.btn-purple {
+  background-color: #0ac580;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-family: roboto, sans-serif;
+}
